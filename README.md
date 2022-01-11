@@ -26,10 +26,10 @@ Actually in this tutorial I use kubernetes with version 1.21.0
 
 * [Kubernetes](https://github.com/kubernetes/kubernetes) 1.21.0
 * [Docker Container Runtime](https://github.com/containerd/containerd) 1.4.12
-* [CNI Container Networking](https://github.com/containernetworking/cni) 0.7.5
-* [Weave Networking](https://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
-* [etcd](https://github.com/coreos/etcd) v3.3.9
-* [CoreDNS](https://github.com/coredns/coredns) v1.2.2
+* [CNI Container Networking](https://github.com/containernetworking/cni) 0.9.1
+* [Weave Networking](https://www.weave.works/docs/net/latest/kubernetes/kube-addon/) v2.8.1
+* [etcd](https://github.com/coreos/etcd) v3.5.1
+* [CoreDNS](https://github.com/coredns/coredns) v1.8.3
 
 ## Labs
 
